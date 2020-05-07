@@ -26,11 +26,14 @@ const photos = [
     src: "https://images.unsplash.com/photo-1531616918159-0c11198cd033?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
   },
   {
-    src: "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
+    src: "http://www.trbimg.com/img-5a090285/turbine/sns-dailymeal-1857649-mcdonalds-chicken-nuggets-incident-indiana-111217-20171112",
   },
   {
-    src: "https://images.unsplash.com/photo-1465865523598-a834aac5d3fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
-  },  
+    src: "https://photos.google.com/photo/AF1QipPejAZHbRyWuVha3lrKNHQ5BpecWSHOYbWgJgzu",
+  },
+  {
+    src: "https://media-cdn.tripadvisor.com/media/photo-s/04/3b/eb/4b/mc-donald-s.jpg",
+  },
 ];
 
 
